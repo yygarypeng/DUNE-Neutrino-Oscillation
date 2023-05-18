@@ -1,5 +1,6 @@
 # ignore the dataset; only upload the zip file
 *.npz
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
