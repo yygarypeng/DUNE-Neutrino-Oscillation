@@ -86,8 +86,3 @@ For top 1000 rows, you will fill predicted cp phase in degree.
 &copy; COPYRIGHT:    
 The description and evaluation are extract from     
 Kaggle: https://www.kaggle.com/competitions/phys591000-2023-final-project-i
-
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:79ae68f4dbb94ea354cdd79b020adf5472d560f4ec2c01e988a724ee44f86b35
-size 76
