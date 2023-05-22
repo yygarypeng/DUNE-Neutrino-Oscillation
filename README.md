@@ -84,5 +84,5 @@ Total length will be 2000.
 For top 1000 rows, you will fill predicted cp phase in degree.
 
 &copy; COPYRIGHT:    
-The description and evaluation are extract from     
+The description and evaluation are retrieved from     
 Kaggle: https://www.kaggle.com/competitions/phys591000-2023-final-project-i
