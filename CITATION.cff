@@ -3,6 +3,9 @@ message: "If you use or modify this repository, please cite it using the metadat
 title: "Neutrino-Oscillation-DUNE"
 type: software
 authors:
-  - name: "NTHU AI Course and Authors"
+  - family-names: "Peng"
+    given-names: "Yuan-Yen"
+  - family-names: "Lin"
+    given-names: "Siang-Yuan"
 repository-code: "https://github.com/yygarypeng/DUNE-Neutrino-Oscillation"
 license: "CC-BY-NC-4.0"
