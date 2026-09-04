@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use or modify this repository, please cite it using the metadata below."
+title: "Neutrino-Oscillation-DUNE"
+type: software
+authors:
+  - name: "NTHU AI Course and Authors"
+repository-code: "https://github.com/yygarypeng/DUNE-Neutrino-Oscillation"
+license: "CC-BY-NC-4.0"
