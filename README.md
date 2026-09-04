@@ -1,5 +1,7 @@
 # Neutrino-Oscillation-DUNE
 ## 2023 NTHU PHYS591000 AI lecture (final project)
+Submission please refer to [neutrinonet.ipynb](analysis_code/neutrinonet.ipynb)
+
 ## Neutrino Oscillation
 
 ### Description
